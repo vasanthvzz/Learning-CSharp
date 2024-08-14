@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\bin\Debug\net8.0\FieldExample.exe
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\bin\Debug\net8.0\FieldExample.deps.json
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\bin\Debug\net8.0\FieldExample.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\bin\Debug\net8.0\FieldExample.dll
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\bin\Debug\net8.0\FieldExample.pdb
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.sourcelink.json
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.dll
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\refint\FieldExample.dll
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.pdb
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\FieldExample.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug14\FieldExample\FieldExample\obj\Debug\net8.0\ref\FieldExample.dll

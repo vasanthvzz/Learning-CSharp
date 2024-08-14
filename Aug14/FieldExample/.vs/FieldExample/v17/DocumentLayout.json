@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug14\\FieldExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A791F8-6EA1-4058-A61B-C6493EC9FD30}|FieldExample\\FieldExample.csproj|d:\\local repos\\learning-c-\\aug14\\fieldexample\\fieldexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A791F8-6EA1-4058-A61B-C6493EC9FD30}|FieldExample\\FieldExample.csproj|solutionrelative:fieldexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A791F8-6EA1-4058-A61B-C6493EC9FD30}|FieldExample\\FieldExample.csproj|d:\\local repos\\learning-c-\\aug14\\fieldexample\\fieldexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A791F8-6EA1-4058-A61B-C6493EC9FD30}|FieldExample\\FieldExample.csproj|solutionrelative:fieldexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug14\\FieldExample\\FieldExample\\Product.cs",
+              "RelativeDocumentMoniker": "FieldExample\\Product.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug14\\FieldExample\\FieldExample\\Product.cs",
+              "RelativeToolTip": "FieldExample\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:21:55.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug14\\FieldExample\\FieldExample\\Program.cs",
+              "RelativeDocumentMoniker": "FieldExample\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug14\\FieldExample\\FieldExample\\Program.cs",
+              "RelativeToolTip": "FieldExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:15:22.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

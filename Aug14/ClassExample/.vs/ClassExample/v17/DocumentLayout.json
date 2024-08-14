@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BB62-9917-4634-9F8F-CF7892FC60F4}|ClassExample\\ClassExample.csproj|d:\\local repos\\learning-c-\\aug14\\classexample\\classexample\\classexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FE4BB62-9917-4634-9F8F-CF7892FC60F4}|ClassExample\\ClassExample.csproj|solutionrelative:classexample\\classexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F5BD-E9BF-40A5-907C-A01518277119}|ClassLibrary1\\ClassLibrary1.csproj|d:\\local repos\\learning-c-\\aug14\\classexample\\classlibrary1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F5BD-E9BF-40A5-907C-A01518277119}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BB62-9917-4634-9F8F-CF7892FC60F4}|ClassExample\\ClassExample.csproj|d:\\local repos\\learning-c-\\aug14\\classexample\\classexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BB62-9917-4634-9F8F-CF7892FC60F4}|ClassExample\\ClassExample.csproj|solutionrelative:classexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0002F5BD-E9BF-40A5-907C-A01518277119}|ClassLibrary1\\ClassLibrary1.csproj|d:\\local repos\\learning-c-\\aug14\\classexample\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0002F5BD-E9BF-40A5-907C-A01518277119}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassLibrary1\\Customer.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Customer.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassLibrary1\\Customer.cs",
+              "RelativeToolTip": "ClassLibrary1\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:55:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassExample",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassExample\\ClassExample.csproj",
+              "RelativeDocumentMoniker": "ClassExample\\ClassExample.csproj",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassExample\\ClassExample.csproj",
+              "RelativeToolTip": "ClassExample\\ClassExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T05:13:36.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "ClassExample\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassExample\\Program.cs",
+              "RelativeToolTip": "ClassExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:12:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug14\\ClassExample\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:12:50.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

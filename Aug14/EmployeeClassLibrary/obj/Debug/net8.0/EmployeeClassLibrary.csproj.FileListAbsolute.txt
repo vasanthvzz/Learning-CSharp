@@ -1,0 +1,12 @@
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\bin\Debug\net8.0\EmployeeClassLibrary.deps.json
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\bin\Debug\net8.0\EmployeeClassLibrary.dll
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\bin\Debug\net8.0\EmployeeClassLibrary.pdb
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.sourcelink.json
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.dll
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\refint\EmployeeClassLibrary.dll
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.pdb
+D:\Local Repos\Learning-c-\Aug14\EmployeeClassLibrary\obj\Debug\net8.0\ref\EmployeeClassLibrary.dll

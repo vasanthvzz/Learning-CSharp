@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Aug14",
+    "\\Aug14\\EmployeeManagement",
+    "\\Aug14\\EmployeeManagement\\EmployeeManagement",
+    "\\Aug14\\FieldExample"
   ],
-  "SelectedNode": "\\Banking.cs",
+  "SelectedNode": "\\Aug14\\EmployeeManagement\\EmployeeManagement.sln",
   "PreviewInSolutionExplorer": false
 }
