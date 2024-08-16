@@ -1,0 +1,12 @@
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+d:\Local Repos\Learning-c-\Aug16\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

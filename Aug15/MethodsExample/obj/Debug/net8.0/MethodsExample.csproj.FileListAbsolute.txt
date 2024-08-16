@@ -1,0 +1,15 @@
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\bin\Debug\net8.0\MethodsExample.exe
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\bin\Debug\net8.0\MethodsExample.deps.json
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\bin\Debug\net8.0\MethodsExample.runtimeconfig.json
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\bin\Debug\net8.0\MethodsExample.dll
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\bin\Debug\net8.0\MethodsExample.pdb
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.GeneratedMSBuildEditorConfig.editorconfig
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.AssemblyInfoInputs.cache
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.AssemblyInfo.cs
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.csproj.CoreCompileInputs.cache
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.sourcelink.json
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.dll
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\refint\MethodsExample.dll
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.pdb
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\MethodsExample.genruntimeconfig.cache
+d:\Local Repos\Learning-c-\Aug15\MethodsExample\obj\Debug\net8.0\ref\MethodsExample.dll
