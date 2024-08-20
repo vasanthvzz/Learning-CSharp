@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.sourcelink.json
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\bin\Debug\net8.0\InterfaceExample.exe
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\bin\Debug\net8.0\InterfaceExample.deps.json
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\bin\Debug\net8.0\InterfaceExample.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\bin\Debug\net8.0\InterfaceExample.dll
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\bin\Debug\net8.0\InterfaceExample.pdb
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.dll
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\refint\InterfaceExample.dll
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.pdb
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\InterfaceExample.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug19\InterfaceExample\obj\Debug\net8.0\ref\InterfaceExample.dll

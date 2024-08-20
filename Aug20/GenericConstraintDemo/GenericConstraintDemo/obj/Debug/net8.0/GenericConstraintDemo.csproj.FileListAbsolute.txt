@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\bin\Debug\net8.0\GenericConstraintDemo.exe
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\bin\Debug\net8.0\GenericConstraintDemo.deps.json
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\bin\Debug\net8.0\GenericConstraintDemo.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\bin\Debug\net8.0\GenericConstraintDemo.dll
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\bin\Debug\net8.0\GenericConstraintDemo.pdb
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.sourcelink.json
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.dll
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\refint\GenericConstraintDemo.dll
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.pdb
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\GenericConstraintDemo.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug20\GenericConstraintDemo\GenericConstraintDemo\obj\Debug\net8.0\ref\GenericConstraintDemo.dll

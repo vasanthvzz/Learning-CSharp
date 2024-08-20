@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034CC0C9-D991-4096-A28E-1CB1453D538B}|GenericConstraintDemo\\GenericConstraintDemo.csproj|d:\\local repos\\learning-c-\\aug20\\genericconstraintdemo\\genericconstraintdemo\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034CC0C9-D991-4096-A28E-1CB1453D538B}|GenericConstraintDemo\\GenericConstraintDemo.csproj|solutionrelative:genericconstraintdemo\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034CC0C9-D991-4096-A28E-1CB1453D538B}|GenericConstraintDemo\\GenericConstraintDemo.csproj|d:\\local repos\\learning-c-\\aug20\\genericconstraintdemo\\genericconstraintdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034CC0C9-D991-4096-A28E-1CB1453D538B}|GenericConstraintDemo\\GenericConstraintDemo.csproj|solutionrelative:genericconstraintdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034CC0C9-D991-4096-A28E-1CB1453D538B}|GenericConstraintDemo\\GenericConstraintDemo.csproj|d:\\local repos\\learning-c-\\aug20\\genericconstraintdemo\\genericconstraintdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034CC0C9-D991-4096-A28E-1CB1453D538B}|GenericConstraintDemo\\GenericConstraintDemo.csproj|solutionrelative:genericconstraintdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\GenericConstraintDemo\\Program2.cs",
+              "RelativeDocumentMoniker": "GenericConstraintDemo\\Program2.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\GenericConstraintDemo\\Program2.cs",
+              "RelativeToolTip": "GenericConstraintDemo\\Program2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA4wB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:55:36.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\GenericConstraintDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericConstraintDemo\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\GenericConstraintDemo\\Program.cs",
+              "RelativeToolTip": "GenericConstraintDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:15:49.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\GenericConstraintDemo\\Student.cs",
+              "RelativeDocumentMoniker": "GenericConstraintDemo\\Student.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericConstraintDemo\\GenericConstraintDemo\\Student.cs",
+              "RelativeToolTip": "GenericConstraintDemo\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:09:00.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

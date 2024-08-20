@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A7E6E4-AF31-45E8-A824-7BB84FD843EC}|GenericClassExample\\GenericClassExample.csproj|d:\\local repos\\learning-c-\\aug20\\genericclassexample\\genericclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A7E6E4-AF31-45E8-A824-7BB84FD843EC}|GenericClassExample\\GenericClassExample.csproj|solutionrelative:genericclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15190685-A20B-4E6D-82B5-A368AFEFF91F}|ClassLibrary1\\ClassLibrary1.csproj|d:\\local repos\\learning-c-\\aug20\\genericclassexample\\classlibrary1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15190685-A20B-4E6D-82B5-A368AFEFF91F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A7E6E4-AF31-45E8-A824-7BB84FD843EC}|GenericClassExample\\GenericClassExample.csproj|d:\\local repos\\learning-c-\\aug20\\genericclassexample\\genericclassexample\\genericclassexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25A7E6E4-AF31-45E8-A824-7BB84FD843EC}|GenericClassExample\\GenericClassExample.csproj|solutionrelative:genericclassexample\\genericclassexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericClassExample.csproj",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\GenericClassExample\\GenericClassExample.csproj",
+              "RelativeDocumentMoniker": "GenericClassExample\\GenericClassExample.csproj",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\GenericClassExample\\GenericClassExample.csproj",
+              "RelativeToolTip": "GenericClassExample\\GenericClassExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T04:09:48.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\GenericClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "GenericClassExample\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\GenericClassExample\\Program.cs",
+              "RelativeToolTip": "GenericClassExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:09:29.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\ClassLibrary1\\User.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\User.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug20\\GenericClassExample\\ClassLibrary1\\User.cs",
+              "RelativeToolTip": "ClassLibrary1\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:09:43.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

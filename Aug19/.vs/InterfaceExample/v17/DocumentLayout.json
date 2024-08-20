@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE94D-F78D-4944-BC6F-93C8BED6AC28}|InterfaceExample\\InterfaceExample.csproj|d:\\local repos\\learning-c-\\aug19\\interfaceexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE94D-F78D-4944-BC6F-93C8BED6AC28}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE94D-F78D-4944-BC6F-93C8BED6AC28}|InterfaceExample\\InterfaceExample.csproj|d:\\local repos\\learning-c-\\aug19\\interfaceexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE94D-F78D-4944-BC6F-93C8BED6AC28}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE94D-F78D-4944-BC6F-93C8BED6AC28}|InterfaceExample\\InterfaceExample.csproj|d:\\local repos\\learning-c-\\aug19\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE94D-F78D-4944-BC6F-93C8BED6AC28}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug19\\InterfaceExample\\Person.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Person.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug19\\InterfaceExample\\Person.cs",
+              "RelativeToolTip": "InterfaceExample\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:36:49.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug19\\InterfaceExample\\Employee.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Employee.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug19\\InterfaceExample\\Employee.cs",
+              "RelativeToolTip": "InterfaceExample\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:29:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug19\\InterfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug19\\InterfaceExample\\Program.cs",
+              "RelativeToolTip": "InterfaceExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:28:22.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

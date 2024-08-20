@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\bin\Debug\net8.0\Program1.exe
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\bin\Debug\net8.0\Program1.deps.json
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\bin\Debug\net8.0\Program1.runtimeconfig.json
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\bin\Debug\net8.0\Program1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\bin\Debug\net8.0\Program1.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.sourcelink.json
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\refint\Program1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\Program1.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Program1\obj\Debug\net8.0\ref\Program1.dll
