@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\bin\Debug\net8.0\DelegatesEventsDemo.exe
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\bin\Debug\net8.0\DelegatesEventsDemo.deps.json
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\bin\Debug\net8.0\DelegatesEventsDemo.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\bin\Debug\net8.0\DelegatesEventsDemo.dll
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\bin\Debug\net8.0\DelegatesEventsDemo.pdb
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.sourcelink.json
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.dll
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\refint\DelegatesEventsDemo.dll
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.pdb
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\DelegatesEventsDemo.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug21\DelegatesEventsDemo\DelegatesEventsDemo\obj\Debug\net8.0\ref\DelegatesEventsDemo.dll

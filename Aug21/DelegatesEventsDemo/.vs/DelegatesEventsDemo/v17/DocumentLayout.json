@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\sample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\sample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\mydelegate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\mydelegate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|d:\\local repos\\learning-c-\\aug21\\delegateseventsdemo\\delegateseventsdemo\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B3393-0DF1-4866-9968-7FBF48A12DBD}|DelegatesEventsDemo\\DelegatesEventsDemo.csproj|solutionrelative:delegateseventsdemo\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Program3.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\Program3.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Program3.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\Program3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:48:18.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Publisher.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\Publisher.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Publisher.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:39:05.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Program2.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\Program2.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Program2.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\Program2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:21:24.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Subscriber.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\Subscriber.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Subscriber.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:46:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDelegate2.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\MyDelegate2.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\MyDelegate2.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\MyDelegate2.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\MyDelegate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:22:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sample2.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Sample2.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\Sample2.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Sample2.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\Sample2.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBCwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:19:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\DelegateDemo.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\DelegateDemo.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\DelegateDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:02:04.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Sample.cs",
+              "RelativeDocumentMoniker": "DelegatesEventsDemo\\Sample.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug21\\DelegatesEventsDemo\\DelegatesEventsDemo\\Sample.cs",
+              "RelativeToolTip": "DelegatesEventsDemo\\Sample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:07:01.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

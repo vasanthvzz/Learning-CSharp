@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\bin\Debug\net8.0\EventHandlerDemo.exe
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\bin\Debug\net8.0\EventHandlerDemo.deps.json
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\bin\Debug\net8.0\EventHandlerDemo.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\bin\Debug\net8.0\EventHandlerDemo.dll
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\bin\Debug\net8.0\EventHandlerDemo.pdb
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.sourcelink.json
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.dll
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\refint\EventHandlerDemo.dll
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.pdb
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\EventHandlerDemo.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug21\EventHandlerDemo\EventHandlerDemo\obj\Debug\net8.0\ref\EventHandlerDemo.dll
