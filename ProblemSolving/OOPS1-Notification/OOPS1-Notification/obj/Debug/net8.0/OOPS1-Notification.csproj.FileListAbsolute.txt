@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\bin\Debug\net8.0\OOPS1-Notification.exe
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\bin\Debug\net8.0\OOPS1-Notification.deps.json
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\bin\Debug\net8.0\OOPS1-Notification.runtimeconfig.json
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\bin\Debug\net8.0\OOPS1-Notification.dll
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\bin\Debug\net8.0\OOPS1-Notification.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.sourcelink.json
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.dll
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\refint\OOPS1-Notification.dll
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\OOPS1-Notification.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\ProblemSolving\OOPS1-Notification\OOPS1-Notification\obj\Debug\net8.0\ref\OOPS1-Notification.dll
