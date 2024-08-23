@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\bin\Debug\net8.0\Program2.exe
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\bin\Debug\net8.0\Program2.deps.json
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\bin\Debug\net8.0\Program2.runtimeconfig.json
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\bin\Debug\net8.0\Program2.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\bin\Debug\net8.0\Program2.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.sourcelink.json
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\refint\Program2.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\Program2.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Program2\Program2\obj\Debug\net8.0\ref\Program2.dll
