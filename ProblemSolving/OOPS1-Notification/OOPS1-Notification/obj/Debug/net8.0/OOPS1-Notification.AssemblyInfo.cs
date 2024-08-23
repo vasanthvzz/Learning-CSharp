@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPS1-Notification")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba07aca049c894a761326ffce5b49d0e95d6c102")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e64355f07e2835f94057a2f6d8544d71bc3b5f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPS1-Notification")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPS1-Notification")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
