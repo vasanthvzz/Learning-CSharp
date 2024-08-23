@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\bin\Debug\net8.0\CollectionDemo1.exe
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\bin\Debug\net8.0\CollectionDemo1.deps.json
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\bin\Debug\net8.0\CollectionDemo1.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\bin\Debug\net8.0\CollectionDemo1.dll
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\bin\Debug\net8.0\CollectionDemo1.pdb
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.sourcelink.json
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.dll
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\refint\CollectionDemo1.dll
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.pdb
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\CollectionDemo1.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug22\CollectionDemo1\CollectionDemo1\obj\Debug\net8.0\ref\CollectionDemo1.dll

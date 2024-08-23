@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug22\\CollectionDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CB4B2B-BB15-41E5-AB06-63F08963AE79}|CollectionDemo1\\CollectionDemo1.csproj|d:\\local repos\\learning-c-\\aug22\\collectiondemo1\\collectiondemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CB4B2B-BB15-41E5-AB06-63F08963AE79}|CollectionDemo1\\CollectionDemo1.csproj|solutionrelative:collectiondemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug22\\CollectionDemo1\\CollectionDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionDemo1\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug22\\CollectionDemo1\\CollectionDemo1\\Program.cs",
+              "RelativeToolTip": "CollectionDemo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:52:43.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

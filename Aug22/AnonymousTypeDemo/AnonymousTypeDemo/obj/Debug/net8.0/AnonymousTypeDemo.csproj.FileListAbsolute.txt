@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net8.0\AnonymousTypeDemo.exe
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net8.0\AnonymousTypeDemo.deps.json
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net8.0\AnonymousTypeDemo.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net8.0\AnonymousTypeDemo.dll
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\bin\Debug\net8.0\AnonymousTypeDemo.pdb
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.sourcelink.json
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.dll
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\refint\AnonymousTypeDemo.dll
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.pdb
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\AnonymousTypeDemo.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug22\AnonymousTypeDemo\AnonymousTypeDemo\obj\Debug\net8.0\ref\AnonymousTypeDemo.dll
