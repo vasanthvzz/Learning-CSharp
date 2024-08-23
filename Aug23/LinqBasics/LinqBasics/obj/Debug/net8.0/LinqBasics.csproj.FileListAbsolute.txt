@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\bin\Debug\net8.0\LinqBasics.exe
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\bin\Debug\net8.0\LinqBasics.deps.json
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\bin\Debug\net8.0\LinqBasics.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\bin\Debug\net8.0\LinqBasics.dll
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\bin\Debug\net8.0\LinqBasics.pdb
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.sourcelink.json
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.dll
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\refint\LinqBasics.dll
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.pdb
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\LinqBasics.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug23\LinqBasics\LinqBasics\obj\Debug\net8.0\ref\LinqBasics.dll
