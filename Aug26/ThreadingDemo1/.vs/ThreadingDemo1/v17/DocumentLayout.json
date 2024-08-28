@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|d:\\local repos\\learning-c-\\aug26\\threadingdemo1\\threadingdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|d:\\local repos\\learning-c-\\aug26\\threadingdemo1\\threadingdemo1\\tempprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\tempprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|d:\\local repos\\learning-c-\\aug26\\threadingdemo1\\threadingdemo1\\temp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\temp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|d:\\local repos\\learning-c-\\aug26\\threadingdemo1\\threadingdemo1\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|d:\\local repos\\learning-c-\\aug26\\threadingdemo1\\threadingdemo1\\numbercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE57F6F-2588-4CA6-8EF7-1DF7CE2BBB21}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\numbercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempProgram.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\TempProgram.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\TempProgram.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\TempProgram.cs",
+              "RelativeToolTip": "ThreadingDemo1\\TempProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:09:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "temp2.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\temp2.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\temp2.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\temp2.cs",
+              "RelativeToolTip": "ThreadingDemo1\\temp2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:28:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "temp.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\temp.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\temp.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\temp.cs",
+              "RelativeToolTip": "ThreadingDemo1\\temp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:54:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberCounter.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\NumberCounter.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\NumberCounter.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\NumberCounter.cs",
+              "RelativeToolTip": "ThreadingDemo1\\NumberCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:13:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\Program.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Aug26\\ThreadingDemo1\\ThreadingDemo1\\Program.cs",
+              "RelativeToolTip": "ThreadingDemo1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:51:36.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

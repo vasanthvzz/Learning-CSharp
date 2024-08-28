@@ -1,0 +1,29 @@
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\bin\Debug\net8.0\Linq1.exe
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\bin\Debug\net8.0\Linq1.deps.json
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\bin\Debug\net8.0\Linq1.runtimeconfig.json
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\bin\Debug\net8.0\Linq1.dll
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\bin\Debug\net8.0\Linq1.pdb
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.AssemblyInfoInputs.cache
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.AssemblyInfo.cs
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.dll
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\refint\Linq1.dll
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.pdb
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\Linq1.genruntimeconfig.cache
+C:\Users\vasanth-22202\source\repos\Linq1\Linq1\obj\Debug\net8.0\ref\Linq1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\bin\Debug\net8.0\Linq1.exe
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\bin\Debug\net8.0\Linq1.deps.json
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\bin\Debug\net8.0\Linq1.runtimeconfig.json
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\bin\Debug\net8.0\Linq1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\bin\Debug\net8.0\Linq1.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.sourcelink.json
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\refint\Linq1.dll
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.pdb
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\Linq1.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\ProblemSolving\Linq1\Linq1\obj\Debug\net8.0\ref\Linq1.dll

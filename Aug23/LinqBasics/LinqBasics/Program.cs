@@ -29,6 +29,8 @@ class Program
         Employee e = employees.Where(emp => emp.Job == "Manager").ElementAtOrDefault(3);
         //Console.WriteLine(e.EmpName);
 
+        Console.WriteLine(5 % 2);
+
 
 
 

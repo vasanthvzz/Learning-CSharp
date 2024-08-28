@@ -1,0 +1,15 @@
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.exe
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.deps.json
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.runtimeconfig.json
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.dll
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.pdb
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.sourcelink.json
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.dll
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\refint\TaskDemo.dll
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.pdb
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.genruntimeconfig.cache
+D:\Local Repos\Learning-c-\Aug27\TaskDemo\TaskDemo\obj\Debug\net8.0\ref\TaskDemo.dll
