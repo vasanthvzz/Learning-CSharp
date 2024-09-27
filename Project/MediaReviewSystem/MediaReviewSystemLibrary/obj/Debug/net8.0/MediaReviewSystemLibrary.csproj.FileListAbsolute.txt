@@ -1,0 +1,16 @@
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\bin\Debug\net8.0\MediaReviewSystemLibrary.deps.json
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\bin\Debug\net8.0\MediaReviewSystemLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\bin\Debug\net8.0\MediaReviewSystemLibrary.pdb
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.sourcelink.json
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\refint\MediaReviewSystemLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.pdb
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\ref\MediaReviewSystemLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaReviewSystemLibrary.csproj.AssemblyReference.cache
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\bin\Debug\net8.0\CommonClassLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\bin\Debug\net8.0\CommonClassLibrary.pdb
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\MediaReviewSystemLibrary\obj\Debug\net8.0\MediaRev.FD579AF3.Up2Date

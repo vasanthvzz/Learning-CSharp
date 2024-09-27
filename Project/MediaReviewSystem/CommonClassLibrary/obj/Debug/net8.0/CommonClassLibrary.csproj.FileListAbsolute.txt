@@ -1,0 +1,12 @@
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\bin\Debug\net8.0\CommonClassLibrary.deps.json
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\bin\Debug\net8.0\CommonClassLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\bin\Debug\net8.0\CommonClassLibrary.pdb
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.AssemblyInfoInputs.cache
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.AssemblyInfo.cs
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.csproj.CoreCompileInputs.cache
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.sourcelink.json
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\refint\CommonClassLibrary.dll
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.pdb
+D:\Local Repos\Learning-c-\Project\MediaReviewSystem\CommonClassLibrary\obj\Debug\net8.0\ref\CommonClassLibrary.dll

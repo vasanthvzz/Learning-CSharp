@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Models\\Entities\\Media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieReviewSystem\\Models\\Entities\\Media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\DataLoader\\MediaDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieReviewSystem\\DataLoader\\MediaDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Library\\MovieDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieReviewSystem\\Library\\MovieDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Library\\DataHandler\\Contracts\\UserCredentialDataHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieReviewSystem\\Library\\DataHandler\\Contracts\\UserCredentialDataHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:467594323:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Models\\Entities\\Media.cs",
+              "RelativeDocumentMoniker": "MovieReviewSystem\\Models\\Entities\\Media.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Models\\Entities\\Media.cs",
+              "RelativeToolTip": "MovieReviewSystem\\Models\\Entities\\Media.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:38:36.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaDL.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\DataLoader\\MediaDL.cs",
+              "RelativeDocumentMoniker": "MovieReviewSystem\\DataLoader\\MediaDL.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\DataLoader\\MediaDL.cs",
+              "RelativeToolTip": "MovieReviewSystem\\DataLoader\\MediaDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:38:33.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDatabase.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Library\\MovieDatabase.cs",
+              "RelativeDocumentMoniker": "MovieReviewSystem\\Library\\MovieDatabase.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Library\\MovieDatabase.cs",
+              "RelativeToolTip": "MovieReviewSystem\\Library\\MovieDatabase.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:10:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserCredentialDataHandler.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Library\\DataHandler\\Contracts\\UserCredentialDataHandler.cs",
+              "RelativeDocumentMoniker": "MovieReviewSystem\\Library\\DataHandler\\Contracts\\UserCredentialDataHandler.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MovieReviewSystem\\MovieReviewSystem\\Library\\DataHandler\\Contracts\\UserCredentialDataHandler.cs",
+              "RelativeToolTip": "MovieReviewSystem\\Library\\DataHandler\\Contracts\\UserCredentialDataHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:10:52.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

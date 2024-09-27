@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystemlibrary\\data\\tagvalidationdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|solutionrelative:mediareviewsystemlibrary\\data\\tagvalidationdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystemlibrary\\data\\showtagsdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|solutionrelative:mediareviewsystemlibrary\\data\\showtagsdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CEF224-B726-471F-BBF0-B6AE85B8DD45}|MediaReviewSystem\\MediaReviewSystem.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystem\\view\\filtermediabytagview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CEF224-B726-471F-BBF0-B6AE85B8DD45}|MediaReviewSystem\\MediaReviewSystem.csproj|solutionrelative:mediareviewsystem\\view\\filtermediabytagview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CEF224-B726-471F-BBF0-B6AE85B8DD45}|MediaReviewSystem\\MediaReviewSystem.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystem\\view\\showtagsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CEF224-B726-471F-BBF0-B6AE85B8DD45}|MediaReviewSystem\\MediaReviewSystem.csproj|solutionrelative:mediareviewsystem\\view\\showtagsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CEF224-B726-471F-BBF0-B6AE85B8DD45}|MediaReviewSystem\\MediaReviewSystem.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystem\\view\\addmediaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CEF224-B726-471F-BBF0-B6AE85B8DD45}|MediaReviewSystem\\MediaReviewSystem.csproj|solutionrelative:mediareviewsystem\\view\\addmediaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystemlibrary\\utils\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|solutionrelative:mediareviewsystemlibrary\\utils\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystemlibrary\\domain\\showtagsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|solutionrelative:mediareviewsystemlibrary\\domain\\showtagsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|d:\\local repos\\learning-c-\\project\\mediareviewsystem\\mediareviewsystemlibrary\\utils\\identitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234CED0E-3B01-4F9C-B623-C7F1AD7BC3DD}|MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj|solutionrelative:mediareviewsystemlibrary\\utils\\identitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagValidationDataManager.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Data\\TagValidationDataManager.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystemLibrary\\Data\\TagValidationDataManager.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Data\\TagValidationDataManager.cs",
+              "RelativeToolTip": "MediaReviewSystemLibrary\\Data\\TagValidationDataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:54:59.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowTagsDataManager.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Data\\ShowTagsDataManager.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystemLibrary\\Data\\ShowTagsDataManager.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Data\\ShowTagsDataManager.cs",
+              "RelativeToolTip": "MediaReviewSystemLibrary\\Data\\ShowTagsDataManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:57:32.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowTagsUseCase.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Domain\\ShowTagsUseCase.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystemLibrary\\Domain\\ShowTagsUseCase.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Domain\\ShowTagsUseCase.cs",
+              "RelativeToolTip": "MediaReviewSystemLibrary\\Domain\\ShowTagsUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:50:14.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowTagsView.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystem\\View\\ShowTagsView.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystem\\View\\ShowTagsView.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystem\\View\\ShowTagsView.cs",
+              "RelativeToolTip": "MediaReviewSystem\\View\\ShowTagsView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:41:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleManager.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Utils\\ConsoleManager.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystemLibrary\\Utils\\ConsoleManager.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Utils\\ConsoleManager.cs",
+              "RelativeToolTip": "MediaReviewSystemLibrary\\Utils\\ConsoleManager.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAApwA4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:22:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:467594323:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentityManager.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Utils\\IdentityManager.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystemLibrary\\Utils\\IdentityManager.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\Utils\\IdentityManager.cs",
+              "RelativeToolTip": "MediaReviewSystemLibrary\\Utils\\IdentityManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:22:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterMediaByTagView.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystem\\View\\FilterMediaByTagView.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystem\\View\\FilterMediaByTagView.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystem\\View\\FilterMediaByTagView.cs",
+              "RelativeToolTip": "MediaReviewSystem\\View\\FilterMediaByTagView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:42:00.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMediaView.cs",
+              "DocumentMoniker": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystem\\View\\AddMediaView.cs",
+              "RelativeDocumentMoniker": "MediaReviewSystem\\View\\AddMediaView.cs",
+              "ToolTip": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystem\\View\\AddMediaView.cs",
+              "RelativeToolTip": "MediaReviewSystem\\View\\AddMediaView.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:41:58.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

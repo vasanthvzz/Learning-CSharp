@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "78N5yeyHy8E=",
+  "success": true,
+  "projectFilePath": "D:\\Local Repos\\Learning-c-\\Project\\MediaReviewSystem\\MediaReviewSystemLibrary\\MediaReviewSystemLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasanth-22202\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
